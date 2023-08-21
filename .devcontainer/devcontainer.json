@@ -1,0 +1,14 @@
+{
+    "name": "Poetry project",
+	"image": "mcr.microsoft.com/devcontainers/python:3.10",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"ms-python.vscode-pylance",
+				"ms-python.pylint",
+				"ms-python.python"
+			]
+		}
+	}
+}
